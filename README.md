@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shan
+- 👋 Hi, I’m Shanawaz
 - 👀 I’m interested in Data and AI
 - 🌱 I’m currently learning how Quantum computing would help Data and AI in the future
-- 💞️ I’m looking to collaborate on Data Engineering, Machine Learning, Deep Learning and Quantum Computing
+- 💞️ I’m looking to collaborate on Data Engineering, Knowledge Graphs, Machine Learning, Deep Learning and Quantum Computing
 - 📫 Reach me --> Shanawaz.sheriff@outlook.com
 
 <!---
